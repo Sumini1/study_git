@@ -1,1 +1,1 @@
-console.log("aku suka memasak");
+console.log("aku suka memasak");git
