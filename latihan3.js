@@ -1,0 +1,1 @@
+console.log("jangan pernah menyerah");
